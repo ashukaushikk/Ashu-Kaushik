@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashukaushikk/PW-Skills_Projects](https://github.com/ashukaushikk/PW-Skills_Projects)
 
-- 💬 Ask me about **JavaScript,React, Redux,Redux-toolkit**
+- 💬 Ask me about **HTML || CSS || Tailwind CSS || JavaScript || React || Redux || Redux-Saga**
 
 - 📫 How to reach me **ashukaushik1007@gmail.com**
 
